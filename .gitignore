@@ -1,0 +1,30 @@
+# Python cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Virtual environment
+.venv/
+venv/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Dataset files: keep data local
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+
+# Generated output
+outputs/*
+!outputs/.gitkeep
+reports/figures/
+reports/tables/
+
+# Editor and OS files
+.vscode/
+.DS_Store
+Thumbs.db
