@@ -24,3 +24,38 @@ Research topics to investigate
 Next action
 
 Download the dataset and verify its schema on Day 2.
+
+Day 2 — 14 October 2026: Dataset Collection
+
+Source
+
+Kaggle Credit Card Fraud Detection dataset:
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+Work completed
+
+- Downloaded the dataset.
+- Stored the CSV in "data/raw/".
+- Checked that the raw data is excluded from Git.
+- Inspected the dataset using a Python script.
+- Recorded the schema and initial data quality observations.
+
+Initial findings
+
+- Dataset dimensions: [Insert actual output]
+- Number of columns: [Insert actual output]
+- Target distribution: [Insert actual output]
+- Missing values: [Insert actual output]
+- Exact duplicate rows: [Insert actual output]
+
+Interpretation
+
+[Write 2–4 sentences explaining what you observed and why it matters.]
+
+Limitations
+
+The data represents historical transactions and does not contain all the original transaction information. The PCA-transformed features cannot be interpreted as named customer or merchant characteristics.
+
+Next action
+
+Conduct a more detailed data quality audit and begin exploratory data analysis.
