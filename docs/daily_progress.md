@@ -30,3 +30,17 @@ Record the commit hash and message after creating the commit.
 Next task
 
 Download and document the dataset and verify its structure.
+
+Day 2 : Missing
+
+Day 3 — Experimental Methodology
+
+- Objective: Define the experimental workflow and manual-versus-AI comparison protocol.
+- Completed: [List only the sections and decisions actually completed.]
+- Research questions: Documented in "docs/methodology.md".
+- Fair comparison: Same dataset, split, and evaluation metrics for directly comparable experiments.
+- Leakage prevention: Documented separation of training and test information.
+- AI review: [Record tool, prompt, key suggestions, and independent checks.]
+- Challenges: [Record any unresolved issues.]
+- Next step: Begin systematic exploratory data analysis after verifying the dataset inspection.
+- Git commit: "Define experimental methodology and AI comparison protocol"
