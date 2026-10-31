@@ -44,3 +44,15 @@ Day 3 — Experimental Methodology
 - Challenges: [Record any unresolved issues.]
 - Next step: Begin systematic exploratory data analysis after verifying the dataset inspection.
 - Git commit: "Define experimental methodology and AI comparison protocol"
+
+## Day 4 — Reproducibility and Configuration
+
+- Objective: Make the project easier to reproduce.
+- Created: src/config.py
+- Created: src/reproducibility_check.py
+- Random seed: 42
+- Planned test size: 20%
+- Reproducibility test: [Passed]
+- Dependencies checked: [Yes]
+- Challenges: No challenges faced so far.
+- Next step: Begin systematic exploratory data analysis.

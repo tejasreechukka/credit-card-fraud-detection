@@ -59,3 +59,18 @@ The data represents historical transactions and does not contain all the origina
 Next action
 
 Conduct a more detailed data quality audit and begin exploratory data analysis.
+
+Day -3 Conducted a basic methodology test using Claude 
+   (missing link)
+
+## Day 4 — Reproducibility
+
+- Centralised project paths and experiment settings in src/config.py.
+- Defined a fixed random seed of 42.
+- Defined a planned test size of 20%.
+- Tested repeatability using sklearn train_test_split.
+- Confirmed that repeated splits produce identical results.
+- Documented package dependencies in requirements.txt.
+
+Note: The reproducibility test used synthetic data,
+not the actual credit card dataset.
