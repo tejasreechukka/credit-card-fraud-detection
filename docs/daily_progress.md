@@ -56,3 +56,11 @@ Day 3 — Experimental Methodology
 - Dependencies checked: [Yes]
 - Challenges: No challenges faced so far.
 - Next step: Begin systematic exploratory data analysis.
+
+## Day 5- initial dataset quality audit
+
+- Objective: Extract the initial dataset findings and check whether the data can be carried further for Exploratory Data analysis.
+- Created: Data_quality_audit.py for audit using python. data_quality_report.md to ecord the initial findings.
+- Updated: Reserach_log.md. Fed the data and initial findings into Cluade model to perform the basic analysis and compare the findings with its own findings and suggest the missing audits to be done.
+- Findings: The initial data set findings are recorded along with the findings of Claude and updated.
+- Git Commit: Add initial dataset quality audit and findings.
